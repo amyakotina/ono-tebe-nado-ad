@@ -47,7 +47,6 @@ ul {
     border-bottom-color: #000;
 }
 
-/* Активная ссылка без подчеркивания */
 .menu_item:first-child {
     border-bottom: none;
 }
